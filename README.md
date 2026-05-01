@@ -1,5 +1,5 @@
 # 💫 About Me:
-Building full-stack web applications using React, Node.js, and PostgreSQL, along with exploring AI-powered applications and automation tools<br>Full-stack projects, open-source contributions, and beginner-friendly projects in web development, cybersecurity, and AI<br>Improving backend scalability, system design, and advanced cybersecurity techniques<br>Advanced Data Structures & Algorithms, System Design, and Machine Learning concepts<br>React, Node.js, Python, basic cybersecurity tools (Nmap, Wireshark), and building beginner-to-intermediate projects<br>I enjoy building real-world tech projects — from AI-based apps to robotic systems like obstacle-avoiding cars
+🔭Building full-stack web applications using React, Node.js, and PostgreSQL, along with exploring AI-powered applications and automation tools<br>👯Full-stack projects, open-source contributions, and beginner-friendly projects in web development, cybersecurity, and AI<br>🤝Improving backend scalability, system design, and advanced cybersecurity techniques<br>🌱Advanced Data Structures & Algorithms, System Design, and Machine Learning concepts<br>💬React, Node.js, Python, basic cybersecurity tools (Nmap, Wireshark), and building beginner-to-intermediate projects<br>⚡I enjoy building real-world tech projects — from AI-based apps to robotic systems like obstacle-avoiding cars
 
 
 ## 🌐 Socials:
